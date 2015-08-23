@@ -5,11 +5,11 @@ RasterPropMonitor-enabled IVA configurations for the Kerbal Space Program
 
 FlightSystemsRedux is a mod that contains updated RasterPropMonitor IVA configurations for use in KSP.
 It is a revision and update of the FASA Gemini Modernization 2.0 last updated in 2014, and it provides a
-way to showcase RasterPropMonitor capabilities without resoirting to all-glass cockpits.
+way to showcase RasterPropMonitor capabilities without resorting to all-glass cockpits.
 
 ## Requirements
 
-The following are all requirements for using FlightSystemsRedux:
+The following are all requirements for using FlightSystemsRedux (and not included in this package):
 
 * Kerbal Space Program v1.0.4 or later
 * [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.22.0 or later
@@ -36,11 +36,11 @@ Long version: Read the enclosed PDF file for the IVA you are using.
 
 ## License
 
-The contents of this mod are released under the Creative Commons [Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/) license (CC BY-NC 4.0) with the following exceptions:
+The contents of this mod are released under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) license (CC BY-NC-SA 4.0) with the following exceptions:
 
 The familiarization manual (MOARdV-FASAGeminiv3.pdf) is copyrighted by MOARdV, all rights reserved.
 
-Textures found in MOARdV/FlightSystemsRedux/Textures are derived from textures originally created by Alexustas.  They are covered by the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA).
+The texture MOARdV/FlightSystemsRedux/Textures/model001 is derived from a texture originally created by Alexustas.  It is covered by the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA).
 
 ## Revision History
 
