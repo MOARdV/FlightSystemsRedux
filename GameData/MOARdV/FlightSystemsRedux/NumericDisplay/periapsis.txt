@@ -1,0 +1,1 @@
+[#{2:"000000";"FF0000";"FF0000"}]{1:"";"          ";"          "}{0,10:0000}[@x-64]. $&$ PERIAPSIS ORBITMAKESSENSE CUSTOM_MOARdV_POWER_DRAINED
