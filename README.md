@@ -40,7 +40,12 @@ The contents of this mod are released under the Creative Commons [Attribution-No
 
 The familiarization manual (MOARdV-FASAGeminiv3.pdf) is copyrighted by MOARdV, all rights reserved.
 
-The texture MOARdV/FlightSystemsRedux/Textures/model001 is derived from a texture originally created by Alexustas.  It is covered by the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA).
+The following items were originally created by Alexustas.  They are covered by the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA).
+Some of them have been modified for inclusion in this mod.
+
+* MOARdV/FlightSystemsRedux/Textures/model001.dds
+* MOARdV/FlightSystemsRedux/NumericDisplay/model.mu
+* MOARdV/FlightSystemsRedux/NumericDisplay/model000.dds, model001.dds, model002.dds, model003.dds
 
 ## Revision History
 
