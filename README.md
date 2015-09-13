@@ -12,11 +12,11 @@ way to showcase RasterPropMonitor capabilities without resorting to all-glass co
 The following are all requirements for using FlightSystemsRedux (and not included in this package):
 
 * Kerbal Space Program v1.0.4 or later
-* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.22.0 or later
+* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.23.0 or later
 * [FASA](http://forum.kerbalspaceprogram.com/threads/24867) v5.36 or later
 * [ASET Props Pack](http://forum.kerbalspaceprogram.com/threads/129305) v1.3 or later
 * [ASET Avionics Pack](http://forum.kerbalspaceprogram.com/threads/129364) v1.0 or later
-* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.7 or later
+* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.8 or later
 
 Earlier versions of those mods may work, but such configurations are untested and unsupported.
 
@@ -32,13 +32,11 @@ Removing this mod is as simple as deleting the GameData/MOARdV/FlightSystemsRedu
 
 TL;DR: start playing.  Almost everything is clickable, or it provides information.  The IVA is retrofitted to existing flights, even.
 
-Long version: Read the enclosed PDF file for the IVA you are using.
+Long version: Visit the [Wiki](https://github.com/MOARdV/FlightSystemsRedux/wiki) for this mod for detailed descriptions.
 
 ## License
 
 The contents of this mod are released under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) license (CC BY-NC-SA 4.0) with the following exceptions:
-
-The familiarization manual (MOARdV-FASAGeminiv3.pdf) is copyrighted by MOARdV, all rights reserved.
 
 The following items were originally created by Alexustas.  They are covered by the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA).
 Some of them have been modified for inclusion in this mod.
