@@ -16,7 +16,7 @@ The following are all requirements for using FlightSystemsRedux (and not include
 * [ASET Props Pack](http://forum.kerbalspaceprogram.com/threads/129305) v1.3 or later
 * [FASA](http://forum.kerbalspaceprogram.com/threads/24867) v5.36 or later
 * [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.8 or later
-* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.23.0 or later
+* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.23.1 or later
 
 Earlier versions of those mods may work, but such configurations are untested and unsupported.
 
@@ -38,16 +38,8 @@ Long version: Visit the [Wiki](https://github.com/MOARdV/FlightSystemsRedux/wiki
 
 The contents of this mod are released under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) license (CC BY-NC-SA 4.0) with the following exceptions:
 
-The following props were originally created by Alexustas.  They are covered by the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA).
+All props and textures included in this mod were originally created by Alexustas.  They are covered by the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA).
 Some of them have been modified for inclusion in this mod.
-
-* MOARdV/FlightSystemsRedux/ASET_SignalLamp
-* MOARdV/FlightSystemsRedux/ASET_VPG
-* MOARdV/FlightSystemsRedux/ASET_VPGDual
-* MOARdV/FlightSystemsRedux/Monitor_4char
-* MOARdV/FlightSystemsRedux/Monitor_8char
-* MOARdV/FlightSystemsRedux/SquareMonitorTypeA
-* MOARdV/FlightSystemsRedux/SquareMonitorTypeB
 
 ## Revision History
 
@@ -57,4 +49,4 @@ Some of them have been modified for inclusion in this mod.
 
 2.0 - 29 JUN 2014 - New FASA Gemini release incorporating some FASA Apollo props.
 
-3.0 - TBD - New lower-footprint FASA Gemini release using ASET props.
+3.0 - TBD OCT 2015 - New FASA Gemini release using ASET props.
