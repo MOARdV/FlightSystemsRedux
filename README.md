@@ -16,7 +16,7 @@ The following are all requirements for using FlightSystemsRedux (and not include
 * [ASET Props Pack](http://forum.kerbalspaceprogram.com/threads/129305) v1.3 or later
 * [FASA](http://forum.kerbalspaceprogram.com/threads/24867) v5.36 or later
 * [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.8 or later
-* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.23.1 or later
+* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.23.2 or later
 
 Earlier versions of those mods may work, but such configurations are untested and unsupported.
 
