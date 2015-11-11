@@ -1,1 +1,1 @@
-[#{0:"000000";"80FF0A";"80FF0A"}]{1:;"  ;  ;  .";"  ;  ;  ."}{1:METHH:mm:ss} $&$ CUSTOM_MOARdV_POWER_DRAINED TIMETOIMPACTSECS
+[#{0:"000000";"80FF0A";"80FF0A"}]{1:;"   [@x8]  [@x16]  .";"   [@x8]  [@x16]  ."}{1:METHHH}[@x8]{1:METmm}[@x16]{1:METss} $&$ CUSTOM_MOARdV_POWER_DRAINED TIMETOIMPACTSECS
