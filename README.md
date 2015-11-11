@@ -11,12 +11,12 @@ way to showcase RasterPropMonitor capabilities without resorting to all-glass co
 
 The following are all requirements for using FlightSystemsRedux (and not included in this package):
 
-* Kerbal Space Program v1.0.4 or later
+* Kerbal Space Program v1.0.5 or later
 * [ASET Avionics Pack](http://forum.kerbalspaceprogram.com/threads/129364) v1.0 or later
 * [ASET Props Pack](http://forum.kerbalspaceprogram.com/threads/129305) v1.3 or later
-* [FASA](http://forum.kerbalspaceprogram.com/threads/24867) v5.36 or later
-* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.8 or later
-* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.23.2 or later
+* [FASA](http://forum.kerbalspaceprogram.com/threads/24867) v5.40 or later
+* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.13 or later
+* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.24.0 or later
 
 Earlier versions of those mods may work, but such configurations are untested and unsupported.
 
@@ -49,4 +49,4 @@ Some of them have been modified for inclusion in this mod.
 
 2.0 - 29 JUN 2014 - New FASA Gemini release incorporating some FASA Apollo props.
 
-3.0 - TBD OCT 2015 - New FASA Gemini release using ASET props.
+3.0 - TBD NOV 2015 - New FASA Gemini release using ASET props.
