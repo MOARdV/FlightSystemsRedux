@@ -1,4 +1,0 @@
-[#{0:"ffffffff";"ffffff11";"ffffff11"}]R: $&$ CUSTOM_ALCOR_BACKLIGHT_ON
-[#{0:"ffffffff";"ffffff11";"ffffff11"}]   £¤ $&$ CUSTOM_ALCOR_BACKLIGHT_ON
-[#{0:"ffffffff";"ffffff11";"ffffff11"}]  [@x24][@y-13]·[@x0][@y1]¡¢ $&$ CUSTOM_ALCOR_BACKLIGHT_ON
-[#{0:"ffffffff";"ffffff11";"ffffff11"}]Z:$&$ CUSTOM_ALCOR_BACKLIGHT_ON
