@@ -40,7 +40,41 @@ TL;DR: start playing.  Almost everything is clickable, or it provides informatio
 
 Long version: Visit the [Wiki](https://github.com/MOARdV/FlightSystemsRedux/wiki) for this mod for detailed descriptions.
 
-## License
+## Manifest
+
+What's included in this package?
+
+* Module Manager configs to replace the props in the FASA Gemini capsule and the Yarbrough Mk. 1-1 A2 capsule, updating those pods with new interiors.
+* Module Manager configs to modify the FASA Gemini nose cones with docking port cameras and a radar module to allow target acquisition.
+* Module Manager configs to add cameras to the FASA Probe Camera, converting it into a RasterPropMonitor-enabled camera.
+* Many, many MOARdV customized configurations of existing ASET Props and ASET Avionics parts.
+
+In addition, there are many props from alexustas that have not been released in his existing parts packs.  Each part is in its own directory.
+
+* ARRT - an altitude / range-range rate indicator useful for landing and docking.
+* ASET_ClockTimer - an analog clock that automatically configures itself for Earth (24 hour) or Kerbin (6 hour) days that includes a stopwatch feature.
+* ASET_DSKY - inspired by the Apollo DSKY, the ASET DSKY provides orbital and rendezvous information.
+* ASET_SignalLamp - a configurable incandescent indicator lamp.
+* ASET_VPG - a single-scale analog bar-graph style indicator (good as a fuel gauge, pressure gauge, etc).
+* ASET_VPGDual - a dual-scale gauge (good for tracking stage and total quantities, for instance, or static and dynamic pressure).
+* FDAI - The Flight Directory / Attitude Indicator, based on the Apollo FDAI.  A replacement advanced navball.
+* FDAI_GMCP - The control panel for the FDAI.
+* FlagIndicator - Based on the indicators in Apollo - a rectangular bracket holding an illuminated flag (indicator lamp), with a configurable caption.
+* Monitor_4char - A simple monitor intended for a 1 row, 4 character display.
+* Monitor_8char - A simple monitor intended for a 1 row, 8 character display.
+* MultiSwitcher_3pos - A rotary switch with three positions.
+* MultiSwitcher_4pos - A rotary switch with four positions.
+* NumInputDial - A knob that can be rotated for numeric inputs, with a "Select" button on its tip.
+* NumInputDial_NoButton - Same as above, but with a configurable graphic on its tip instead of a button.
+* RetroButton - An Apollo-like illuminated push button / switch.
+* RetroWarningLight - An Apollo-like illuminated warning plaque.
+* RotationCtrl_V2 - A joystick without an additional hardware (for surface placement).
+* SquareMonitorTypeA and SquareMonitorTypeB - A 1:1 aspect ratio monitor with no buttons.  One version includes mounting screws, the other does not.
+* Switch_Tumbler_3Pos - A mechanical tumbler switch with three positions.
+* TWR_Indicator - An analog bar gauge for tracking thrust to weight ratio.
+* Xpointer - An analog display used for zeroing lateral speeds during landing, and for aligning with and matching velocity with an orbital target.
+
+## Licenses
 
 The contents of this mod are released under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) license (CC BY-NC-SA 4.0) with the following exceptions:
 
@@ -49,12 +83,12 @@ Some of them have been modified for inclusion in this mod.
 
 ## Revision History
 
-1.0 - 21 JAN 2014 - Initial release covering the FASA Gemini pod.
-
-1.1 - 29 JUN 2014 - Bugfix release to account for updated RasterPropMonitor behavior.
-
-2.0 - 29 JUN 2014 - New FASA Gemini release incorporating some FASA Apollo props.
+4.0 - APR 2016 - Addition of the Yarbrough Mk. 1-1 A2 IVA + many unreleased props from alexustas.
 
 3.0 - NOV 2015 - New FASA Gemini release using ASET props.
 
-4.0 - APR 2016 - Addition of the Yarbrough Mk. 1-1 A2 IVA + many unreleased props from alexustas.
+2.0 - 29 JUN 2014 - New FASA Gemini release incorporating some FASA Apollo props.
+
+1.1 - 29 JUN 2014 - Bugfix release to account for updated RasterPropMonitor behavior.
+
+1.0 - 21 JAN 2014 - Initial release covering the FASA Gemini pod.
