@@ -26,6 +26,12 @@ In addition, one or both of these mods is needed to use the existing IVAs.
 
 Earlier versions of the listed mods may work, but such configurations are untested and unsupported.
 
+These IVAs have additional functionality when the following mods are installed:
+
+* [Kerbal Alarm Clock](http://forum.kerbalspaceprogram.com/index.php?/topic/22809-10x-kerbal-alarm-clock-v3500-dec-3/) - adds the ability to view the time until the next Kerbal Alarm Clock alarm triggers when using the auxiliary digital timer.
+* [MechJeb](http://forum.kerbalspaceprogram.com/index.php?/topic/111978-105-anatid-robotics-mumech-mechjeb-autopilot-256-23-feb-2016/) - adds launch, landing, maneuver node, and rendezvous autopilots, Smart A.S.S. functionality, as well as the ability to configure launch parameters, orbit changes, and rendezvous maneuvers.
+* [RealChute](http://forum.kerbalspaceprogram.com/index.php?/topic/52931-10511wenkel-corporation-realchute-parachute-systems-v14x3-020416-11-prerelease-available/) - adds the ability to arm RealChute parachutes for deployment, in addition to deploying parachutes.
+
 ## Installation
 
 Merge the GameData folder in this archive with the GameData folder in your KSP installation.  The contents of this archive do not overwrite existing files anywhere but GameData/MOARdV/FlightSystemsRedux.
@@ -83,12 +89,35 @@ Some of them have been modified for inclusion in this mod.
 
 ## Revision History
 
-4.0 - APR 2016 - Addition of the Yarbrough Mk. 1-1 A2 IVA + many unreleased props from alexustas.
+### 4.0.0a2 - 7 APR 2016
 
-3.0 - NOV 2015 - New FASA Gemini release using ASET props.
+* Addition of the Yarbrough Mk. 1-1 A2 IVA.
+* Many additional props from alexustas.
 
-2.0 - 29 JUN 2014 - New FASA Gemini release incorporating some FASA Apollo props.
+### 3.0.0b - 11 NOV 2015
 
-1.1 - 29 JUN 2014 - Bugfix release to account for updated RasterPropMonitor behavior.
+* Final update to Gemini pod.
 
-1.0 - 21 JAN 2014 - Initial release covering the FASA Gemini pod.
+### 3.0.0a2 - 24 OCT 2015
+
+* Addition of the x-pointer instrument to the package.
+* Addition of controls on the pilot's panel to set MechJeb launch and orbit management controls.
+
+### 3.0.0a1 - 11 OCT 2015
+
+* New FASA Gemini release using ASET Props, ASET Avionics, plus some new props.
+
+### 2.0 - 29 JUN 2014 
+
+* No longer available
+* New FASA Gemini release incorporating some FASA Apollo props.
+
+### 1.1 - 29 JUN 2014
+
+* No longer available
+* Bugfix release to account for updated RasterPropMonitor.
+
+### 1.0 - 21 JAN 2014
+
+* No longer available
+* Initial release covering the FASA Gemini pod.
