@@ -89,7 +89,7 @@ Some of them have been modified for inclusion in this mod.
 
 ## Revision History
 
-### 4.0.0a2 - 7 APR 2016
+### 4.0.0a1 - 7 APR 2016
 
 * Addition of the Yarbrough Mk. 1-1 A2 IVA.
 * Many additional props from alexustas.
