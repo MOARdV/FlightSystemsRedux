@@ -1,0 +1,20 @@
+[hw]      [#AAAAFFFF]ASC[#FFFFFFFF]    |   [#AAAAFFFF]ORB[#FFFFFFFF]   |   [#FFFFFFFF] MNV[#FFFFFFFF]   |   [#AAAAFFFF]APPR[#FFFFFFFF]   |   [#AAAAFFFF]DESC[#FFFFFFFF]   |   [#AAAAFFFF]LAND[#FFFFFFFF]   |   [#AAAAFFFF]STBY[#FFFFFFFF]
+[MANEUVER]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[hw]      [#AAAAFFFF]---[#FFFFFFFF]    |   [#AAAAFFFF]---[#FFFFFFFF]   |   [#AAAAFFFF]----[#FFFFFFFF]   |   [#AAAAFFFF]DOCK[#FFFFFFFF][/hw]   [hw]MET:[/hw]{0,14:METD:hh:mm:ss;"";""} $&$ METSECS

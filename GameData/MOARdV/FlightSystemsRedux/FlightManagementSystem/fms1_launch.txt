@@ -1,0 +1,16 @@
+[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  BTNG
+{0:"  [[@x8]AUTOMATIC ASCENT SEQUENCE[@x0] ]";"        [MANUAL  ASCENT]        ";"        [MANUAL  ASCENT]        "} $&$ PLUGIN_JSIMechJeb:ButtonAscentGuidanceState
+VSpd:{0,9:SIP9.3}m/s $&$ VERTSPEED
+Alt: [#aaffbdff]{0,9:SIP9.3}m[#ffffffff]      Inc: [#aaaaffff]{1,3:0}°$&$ ALTITUDE INCLINATION
+Ap:  [#aaaaffff]{0,9:SIP9.3}m[#ffffffff]      {1:METHHH:mm:ss} $&$ APOAPSIS TIMETOAPSECS
+Pe:  {2:"[#d5d520ff]";"[#aaaaffff]";"[#aaaaffff]"}{0,9:SIP9.3}m[#ffffffff]      {1:METHHH:mm:ss} $&$ PERIAPSIS TIMETOPESECS CUSTOM_MOARdV_SUBORBITAL
+Atm: {0,9:SIP9.3}m      {1:METHHH:mm:ss} $&$ ORBITBODYATMOSPHERETOP TIMETOATMOSPHERESECS
+
+Stage dV: {2:"[#d5d520ff]";"[#ffffffff]";"[#ffffffff]"}{1,5:0}m/s[#ffffffff]  dV: {0,5:0}m/s $&$ DELTAV DELTAVSTAGE CUSTOM_MOARdV_LOWFUEL_ON
+
+ {0:"[#d52020ff]";"[#200000ff]";"[#200000ff]"}ENG. OUT   {2:"[#d5d520ff]";"[#202000ff]";"[#202000ff]"}D. PRESS   {1:"[#d5d520ff]";"[#202000ff]";"[#202000ff]"} SUBORB $&$ ENGINEFLAMEOUTALARM CUSTOM_MOARdV_SUBORBITAL CUSTOM_MOARdV_HIGHQ
+
+  [@x-8]{0:"[#00d530ff]";"[#002000ff]";"[#002000ff]"} ORBIT [@x0]   {1:"[#d5d520ff]";"[#202000ff]";"[#202000ff]"}FUEL LOW $&$ CUSTOM_MOARdV_ORBIT CUSTOM_MOARdV_LOWFUEL_ON
+[@y+12][#aaaaffff][hw]- STBY[/hw][#ffffffff][@y0]
+              MET:{0,14:METD:hh:mm:ss;"";""} $&$ METSECS
+[hw][#aaaaffff]    [font2]LNCH[font0]  |  ORBT  | BTN3  |  BTN4  |  BTN5  | BTN6  |  BTN7

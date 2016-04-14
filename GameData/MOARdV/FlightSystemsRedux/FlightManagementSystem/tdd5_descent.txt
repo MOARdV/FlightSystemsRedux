@@ -1,0 +1,20 @@
+[hw]      [#AAAAFFFF]ASC[#FFFFFFFF]    |   [#AAAAFFFF]ORB[#FFFFFFFF]   |   [#AAAAFFFF] MNV[#FFFFFFFF]   |   [#AAAAFFFF]APPR[#FFFFFFFF]   |   [#FFFFFFFF]DESC[#FFFFFFFF]   |   [#AAAAFFFF]LAND[#FFFFFFFF]   |   [#AAAAFFFF]STBY[#FFFFFFFF]
+[{0:"AUTOMATIC LANDING SEQUENCE";"MANUAL DESCENT";"MANUAL DESCENT"}] $&$ PLUGIN_JSIMechJeb:ButtonLandingGuidanceState
+          Cabin Temp: {0,4:###0}°C $&$ PODTEMPERATURE
+           Skin Temp: {0,4:###0}°C $&$ PODSKINTEMPERATURE
+            Ext Temp: {0,4:###0}°C $&$ EXTERNALTEMPERATURE
+            Abl Temp: {0:"";"";"----°C                   "}{1,4:###0}°C $&$ SYSR_ABLATOR HEATSHIELDTEMPERATURE
+          Lat: {0:"";"";"                         "}{1,14:DMSd+ mm+ ss+ N} $&$ PREDICTEDLANDINGLONGITUDE PREDICTEDLANDINGLATITUDE
+          Lon: {0:"";"";"                         "}{0,14:DMSd+ mm+ ss+ E} $&$ PREDICTEDLANDINGLONGITUDE
+            Alt: {0:"";"";"                       "}{1,5:0}m ASL $&$ PREDICTEDLANDINGLONGITUDE PREDICTEDLANDINGALTITUDE
+ [@y-{1:0.0}]{0,6:U2K###0.0}km[@y0] $&$ ALTITUDE MAPPED_MOARdV_ALTITUDE_NUDGE
+  ALT                         THR  FUEL
+
+                       [@x-8]{0:"[#D5D520ff]";"[#202000ff]";"[#202000ff]"} AEROBR  {1:"[#d52020ff]";"[#200000ff]";"[#200000ff]"}ENG.HEAT $&$ CUSTOM_MOARdV_AEROBRAKE ENGINEOVERHEATALARM
+                       [@x-8]{1:"[#D5D520ff]";"[#202000ff]";"[#202000ff]"} SUBORB  {0:"[#d52020ff]";"[#200000ff]";"[#200000ff]"}ENG. OUT  $&$ ENGINEFLAMEOUTALARM CUSTOM_MOARdV_SUBORBITAL
+                       [@x-8][#101010ff]12345678 {0:"[#d52020ff]";"[#200000ff]";"[#200000ff]"}POD HEAT $&$ PODTEMPERATUREALARM
+                      {1:"[#002608ff]";"[#00ff3aff]";"[#00ff3aff]"} CONTACT   [@x-8]{0:"[#d52020ff]";"[#200000ff]";"[#d52020ff]"}HIGH G $&$ MAPPED_MOARdV_HIGHG_ALARM ORBITMAKESSENSE
+  Ablator:{0,4:###0}          [@x-6]|[@x0] $&$ SYSR_ABLATOR
+                                {0,5:f}Gs $&$ GFORCE
+
+[hw]      [#AAAAFFFF]---[#FFFFFFFF]    |   [#AAAAFFFF]---[#FFFFFFFF]   |   [#AAAAFFFF]----[#FFFFFFFF]   |   [#AAAAFFFF]DOCK[#FFFFFFFF][/hw]   [hw]MET:[/hw]{0,14:METD:hh:mm:ss;"";""} $&$ METSECS

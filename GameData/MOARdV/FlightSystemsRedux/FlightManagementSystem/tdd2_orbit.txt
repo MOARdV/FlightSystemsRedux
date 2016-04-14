@@ -1,0 +1,20 @@
+[hw]      [#AAAAFFFF]ASC[#FFFFFFFF]    |   [#FFFFFFFF]ORB[#FFFFFFFF]   |   [#AAAAFFFF] MNV[#FFFFFFFF]   |   [#AAAAFFFF]APPR[#FFFFFFFF]   |   [#AAAAFFFF]DESC[#FFFFFFFF]   |   [#AAAAFFFF]LAND[#FFFFFFFF]   |   [#AAAAFFFF]STBY[#FFFFFFFF]
+{3:;"[NO ORBIT]                               ";}[{0:SIP6.1} x {1:SIP6.1} @ {2:f}° {4}] $&$ APOAPSIS PERIAPSIS INCLINATION ORBITMAKESSENSE ORBITBODY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[hw]      [#AAAAFFFF]---[#FFFFFFFF]    |   [#AAAAFFFF]---[#FFFFFFFF]   |   [#AAAAFFFF]----[#FFFFFFFF]   |   [#AAAAFFFF]DOCK[#FFFFFFFF][/hw]   [hw]MET:[/hw]{0,14:METD:hh:mm:ss;"";""} $&$ METSECS

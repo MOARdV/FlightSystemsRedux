@@ -80,6 +80,8 @@ In addition, there are many props from alexustas that have not been released in 
 * TWR_Indicator - An analog bar gauge for tracking thrust to weight ratio.
 * Xpointer - An analog display used for zeroing lateral speeds during landing, and for aligning with and matching velocity with an orbital target.
 
+Other directories contain configurations for MFDs, replacement textures used for customized props, et cetera.
+
 ## Licenses
 
 The contents of this mod are released under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) license (CC BY-NC-SA 4.0) with the following exceptions:

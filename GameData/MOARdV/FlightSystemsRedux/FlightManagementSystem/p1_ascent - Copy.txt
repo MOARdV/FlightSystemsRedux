@@ -1,0 +1,20 @@
+[hw]      [#FFFFFFFF]ASC[#FFFFFFFF]    |   [#AAAAFFFF]ORB[#FFFFFFFF]   |   [#AAAAFFFF] MNV[#FFFFFFFF]   |   [#AAAAFFFF]DOCK[#FFFFFFFF]   |   [#AAAAFFFF]DESC[#FFFFFFFF]   |   [#AAAAFFFF]LAND[#FFFFFFFF]   |   [#AAAAFFFF]STBY[#FFFFFFFF]
+[{0:"AUTOMATIC ASCENT SEQUENCE";"MANUAL ASCENT SEQUENCE";"MANUAL ASCENT SEQUENCE"}] $&$ PLUGIN_JSIMechJeb:ButtonAscentGuidanceState
+             Ap: {1:;" ---.---m                 ";}{0,8:SIP9.3}m $&$ APOAPSIS ORBITMAKESSENSE
+             Pe: {1:;" ---.---m                 ";}{0,8:SIP9.3;"-Suborb- ";}m $&$ PERIAPSIS ORBITMAKESSENSE
+             Inc: {1:;"  -.--°               ";}{0,6:f}° $&$ INCLINATION ORBITMAKESSENSE
+             Ecc: {1:;"  -.---                  ";}{0,7:0.000} $&$ ECCENTRICITY ORBITMAKESSENSE
+             Q: {1:;"-----.-- kPa               ";}{0,8:####0.00} kPa $&$ DYNAMICPRESSURE ORBITMAKESSENSE
+
+
+     [@y-{1:0.0}]{0:U2K###0.0}km[@y0] $&$ ALTITUDE MAPPED_MOARDV_ALTITUDE_NUDGE
+  ALT                         THR  FUEL
+
+                       [@x-8]{0:"[#D5D520ff]";"[#202000ff]";"[#202000ff]"} SUBORB  {1:"[#d52020ff]";"[#200000ff]";"[#200000ff]"}ENG.HEAT $&$ CUSTOM_MOARdV_SUBORBITAL ENGINEOVERHEATALARM
+     {0,6:#0.0}m/s         [@x-8][#101010ff]12345678 {1:"[#d52020ff]";"[#200000ff]";"[#200000ff]"}ENG. OUT  $&$ VERTSPEED ENGINEFLAMEOUTALARM
+                       [@x-8][#101010ff]12345678 {0:"[#d52020ff]";"[#200000ff]";"[#200000ff]"}POD HEAT $&$ PODTEMPERATUREALARM
+                       [@x-8][#101010ff]12345678  {0:"[#d52020ff]";"[#200000ff]";"[#d52020ff]"}HIGH G $&$ MAPPED_MOARDV_HIGHG_ALARM
+  VSI                   [@x-6]|[@x0]
+Cabin Temp: {1,4:###0}°               {0,5:f}Gs $&$ GFORCE PODTEMPERATURE
+Skin Temp : {1,4:###0}°     Ext Temp  : {0,4:###0}° $&$ EXTERNALTEMPERATURE PODSKINTEMPERATURE
+[hw]      [#AAAAFFFF]---[#FFFFFFFF]    |   [#AAAAFFFF]---[#FFFFFFFF]   |   [#AAAAFFFF]----[#FFFFFFFF]   |   [#AAAAFFFF]----[#FFFFFFFF]
