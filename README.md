@@ -17,7 +17,7 @@ The following are all requirements for using FlightSystemsRedux (and not include
 * Kerbal Space Program v1.1.0 or later
 * [ASET Avionics Pack](http://forum.kerbalspaceprogram.com/threads/129364) v1.0 or later
 * [ASET Props Pack](http://forum.kerbalspaceprogram.com/threads/129305) v1.3 or later
-* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.21 or later
+* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.22 or later
 * [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.25.0 or later
 
 In addition, one or both of these mods is needed to use the existing IVAs.
@@ -90,6 +90,9 @@ All props and textures included in this mod were originally created by Alexustas
 Some of them have been modified for inclusion in this mod.
 
 ## Revision History
+
+### 4.0.0 - 19 APR 2016
+* Release version of Yarbrough Mk. 1-1 A2.
 
 ### 4.0.0a1 - 7 APR 2016
 
