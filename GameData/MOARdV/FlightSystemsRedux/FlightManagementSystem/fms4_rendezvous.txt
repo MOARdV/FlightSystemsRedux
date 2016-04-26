@@ -1,0 +1,16 @@
+[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
+     [@x8][ TARGET RENDEZVOUS ]
+{3:;" ---.--m x  ---.--m  @  ---.-°";}[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ APOAPSIS PERIAPSIS INCLINATION ORBITMAKESSENSE
+Target Orbit:
+[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ TARGETAPOAPSIS TARGETPERIAPSIS TARGETINCLINATION
+Relative Inclination: [#aaaaffff]{0,5:0.0}° $&$ RELATIVEINCLINATION
+
+Prox: {0,7:SIP7.1}m  T:{1,14:METD:hh:mm:ss;"";""} $&$ TARGETCLOSESTAPPROACHDISTANCE TARGETCLOSESTAPPROACHTIME
+
+
+
+
+
+[@y+12][#aaaaffff][hw]- STBY[/hw][#ffffffff][@y0]
+              MET:{0,14:METD:hh:mm:ss;"";""} $&$ METSECS
+[hw][#aaaaffff]    LNCH  |  ORBT  | MNVR  |  [font2]RNDZ[font0]  |  DOCK  | BTN6  |  LAND

@@ -1,0 +1,16 @@
+[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  [font2]CAM [font0]
+       [ FLIGHT CAMERAS ]
+[@y-8][#aaaaffff][hw]- [font2]LEFT[font0][/hw][@y0]                          [@y-8][#aaaaffff][hw][font2] UP [font0] -
+
+							 
+[@y-10][#aaaaffff][hw]- [font2] RT [font0][/hw][@y0]                          [@y-10][#aaaaffff][hw][font2]DOWN[font0] -
+
+
+[@y-14][#aaaaffff][hw]- [font2]PREV[font0][/hw][@y0]                          [@y-14][#aaaaffff][hw][font2]ZM +[font0] -
+
+[@y+14][#aaaaffff][hw]- [font2]NEXT[font0][/hw][@y0]                          [@y+14][#aaaaffff][hw][font2]ZM -[font0] -
+
+
+[@y+12][#aaaaffff][hw]- STBY[/hw][#ffffffff][@y0]                          [@y+12][#aaaaffff][hw][font2]HOME[font0] -
+
+[hw][#aaaaffff]    LNCH  |  ORBT  | MNVR  |  RNDZ  |  DOCK  | BTN6  |  LAND

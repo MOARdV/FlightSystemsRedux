@@ -1,0 +1,16 @@
+[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
+      [ DOCKING PORT CAM ]
+{0} $&$ TARGETNAME
+
+
+
+            [#ffffff77][@x-{0:0.0}][@y-{0:0.0}]¢      [@x{0:0.0}][@y-{0:0.0}]¡ $&$  TARGETANGLEDEV
+
+                             [@y-14][#aaaaffff][hw][font2]ZM +[font0] -
+            [#ffffff77][@x-{0:0.0}][@y{0:0.0}]¤      [@x{0:0.0}][@y{0:0.0}]£ $&$  TARGETANGLEDEV
+                             [@y+14][#aaaaffff][hw][font2]ZM -[font0] -
+    [#aaaaffff]{0,7:SIP7.1}m/s[#ffffffff] -- X --  [#aaaaffff]{1,7:SIP7.1}m $&$ TGTRELX TARGETDISTANCEX
+    [#aaaaffff]{0,7:SIP7.1}m/s[#ffffffff] -- Y --  [#aaaaffff]{1,7:SIP7.1}m $&$ TGTRELY TARGETDISTANCEY
+[@y+12][#aaaaffff][hw]- STBY[/hw][#ffffffff][@y0] [#aaaaffff]{0,7:SIP7.1}m/s[#ffffffff] -- Z --  [#aaaaffff]{1,7:SIP7.1}m $&$ TGTRELZ TARGETDISTANCEZ
+              MET:{0,14:METD:hh:mm:ss;"";""} $&$ METSECS
+[hw][#aaaaffff]    LNCH  |  ORBT  | MNVR  |  RNDZ  |  [font2]DOCK[font0]  | BTN6  |  LAND

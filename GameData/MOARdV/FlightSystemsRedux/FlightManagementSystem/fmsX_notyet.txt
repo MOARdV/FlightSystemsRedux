@@ -1,5 +1,5 @@
-[hw]    [#AAAAFFFF]BTNA[#FFFFFFFF]  |  [#AAAAFFFF]BTNB[#FFFFFFFF]  | [#AAAAFFFF]BTNC[#FFFFFFFF]  |  [#AAAAFFFF]BTND[#FFFFFFFF]  |  [#AAAAFFFF]BTNE[#FFFFFFFF]  | [#AAAAFFFF]BTNF[#FFFFFFFF]  |  [#AAAAFFFF]BTNG[#FFFFFFFF]
-This page is not ready.
+[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
+   [ THIS PAGE IS NOT READY ]
 
 
 
@@ -11,6 +11,6 @@ This page is not ready.
 
 
 
+[@y+12][#aaaaffff][hw]- STBY[/hw][#ffffffff][@y0]
 
-
-[hw]    [#AAAAFFFF]LNCH[#FFFFFFFF]  |  [#AAAAFFFF]ORBT[#FFFFFFFF]  | [#AAAAFFFF]BTN3[#FFFFFFFF]  |  [#AAAAFFFF]BTN4[#FFFFFFFF]  |  [#AAAAFFFF]BTN5[#FFFFFFFF]  | [#AAAAFFFF]BTN6[#FFFFFFFF]  |  [#AAAAFFFF]BTN7[#FFFFFFFF]
+[hw][#aaaaffff]    LNCH  |  ORBT  | MNVR  |  RNDZ  |  DOCK  | BTN6  |  LAND

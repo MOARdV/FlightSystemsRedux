@@ -1,0 +1,16 @@
+[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
+   [@x8][ NO SCHEDULED MANEUVER ]
+{3:;" ---.--m x  ---.--m  @  ---.-°";}[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ APOAPSIS PERIAPSIS INCLINATION ORBITMAKESSENSE
+
+
+
+
+
+
+
+
+
+
+[@y+12][#aaaaffff][hw]- STBY[/hw][#ffffffff][@y0]
+              MET:{0,14:METD:hh:mm:ss;"";""} $&$ METSECS
+[hw][#aaaaffff]    LNCH  |  ORBT  | [font2]MNVR[font0]  |  RNDZ  |  DOCK  | BTN6  |  LAND

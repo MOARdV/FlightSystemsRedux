@@ -1,7 +1,7 @@
-[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  BTNG
+[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
       [ORBITAL PARAMETERS]
-{3:;" ---.----m x  ---.----m @ ---°";}[#aaaaffff]{0,9:SIP9.3}m[#ffffffff] x [#aaaaffff]{1,9:SIP9.3}m[#ffffffff] @ [#aaaaffff]{2,3:0}° $&$ APOAPSIS PERIAPSIS INCLINATION ORBITMAKESSENSE
-{2:;"Alt: ---.----m Rate: ---.----m/s";}Alt:[#aaffbdff]{0,9:SIP9.3}m[#ffffffff] Rate:{1,9:SIP9.3}m/s $&$ ALTITUDE VERTSPEED ORBITMAKESSENSE
+{3:;" ---.--m x  ---.--m  @  ---.-°";}[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ APOAPSIS PERIAPSIS INCLINATION ORBITMAKESSENSE
+{2:;"Alt: ---.--m     Rate: ---.--m/s";}Alt:[#aaffbdff]{0,7:SIP7.1}m[#ffffffff]     Rate:{1,7:SIP7.1}m/s $&$ ALTITUDE VERTSPEED ORBITMAKESSENSE
 
 
 
@@ -13,4 +13,4 @@
 
 [@y+12][#aaaaffff][hw]- STBY[/hw][#ffffffff][@y0]            {2:;"                 ";}{1:"Ap:";"Pe:";"--:"}{0,14:METD:hh:mm:ss;"";""} $&$ TIMETONEXTAPSIS NEXTAPSISTYPE ORBITMAKESSENSE
               MET:{0,14:METD:hh:mm:ss;"";""} $&$ METSECS
-[hw][#aaaaffff]    LNCH  |  [font2]ORBT[font0]  | BTN3  |  BTN4  |  BTN5  | BTN6  |  BTN7
+[hw][#aaaaffff]    LNCH  |  [font2]ORBT[font0]  | MNVR  |  RNDZ  |  DOCK  | BTN6  |  LAND

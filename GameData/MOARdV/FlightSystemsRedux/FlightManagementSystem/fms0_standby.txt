@@ -1,4 +1,4 @@
-[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  BTNG
+[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
 
 
 
@@ -13,4 +13,4 @@
 [#ffffff3f]  RPM v{0} $&$ RPMVERSION
 [@y+12][#aaaaffff][hw]- [font2]STBY[font0][/hw][#ffffffff][@y0]
               [#ffffff3f]MET:{0,14:METD:hh:mm:ss;"";""} $&$ METSECS
-[hw][#aaaaffff]    LNCH  |  ORBT  | BTN3  |  BTN4  |  BTN5  | BTN6  |  BTN7
+[hw][#aaaaffff]    LNCH  |  ORBT  | MNVR  |  RNDZ  |  DOCK  | BTN6  |  LAND
