@@ -7,18 +7,15 @@ FlightSystemsRedux is a mod that contains updated RasterPropMonitor IVA configur
 It is a revision and update of the FASA Gemini Modernization 2.0 from 2014, and it provides a
 way to showcase RasterPropMonitor capabilities without resorting to all-glass cockpits.
 
-Also included are many ASET props created by alexustas that have not been released into the ASET Props Pack
-or ASET Avionics Pack.
-
 ## Requirements
 
 The following are all requirements for using FlightSystemsRedux (and not included in this package):
 
-* Kerbal Space Program v1.1.0 or later
+* Kerbal Space Program v1.1.3 or later
 * [ASET Avionics Pack](http://forum.kerbalspaceprogram.com/threads/129364) v1.0 or later
 * [ASET Props Pack](http://forum.kerbalspaceprogram.com/threads/129305) v1.3 or later
-* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.22 or later
-* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.25.0 or later
+* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.6.25 or later
+* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.27.0 or later
 
 In addition, one or both of these mods is needed to use the existing IVAs.
 * [FASA](http://forum.kerbalspaceprogram.com/threads/24867) v5.40 or later for the FASA Gemini pod
@@ -32,13 +29,18 @@ These IVAs have additional functionality when the following mods are installed:
 * [MechJeb](http://forum.kerbalspaceprogram.com/index.php?/topic/111978-105-anatid-robotics-mumech-mechjeb-autopilot-256-23-feb-2016/) - adds launch, landing, maneuver node, and rendezvous autopilots, Smart A.S.S. functionality, as well as the ability to configure launch parameters, orbit changes, and rendezvous maneuvers.
 * [RealChute](http://forum.kerbalspaceprogram.com/index.php?/topic/52931-10511wenkel-corporation-realchute-parachute-systems-v14x3-020416-11-prerelease-available/) - adds the ability to arm RealChute parachutes for deployment, in addition to deploying parachutes.
 
+As of version 4.1.0 of this mod, the FASA Gemini pod has been moved to legacy status.  There have been no updates to the IVA to take
+advantage of the latest ASET props and RasterPropMonitor, and all relevant components have been moved to the Legacy folder.
+The IVA may not work correctly (an update will take place later; pull requests with fixes are welcome if someone doesn't want
+to wait).
+
 ## Installation
 
 Merge the GameData folder in this archive with the GameData folder in your KSP installation.  The contents of this archive do not overwrite existing files anywhere but GameData/MOARdV/FlightSystemsRedux.
 
-If you have a legacy version of the Gemini replacement IVA (version 2.0 or earlier), you should delete it.  It is not fully compatible with current versions of RasterPropMonitor.
-
 Removing this mod is as simple as deleting the GameData/MOARdV/FlightSystemsRedux folder.
+
+If you are not using the FASA Gemini pod, you may safely delete the GameData/MOARdV/FlightSystemsRedux/Legacy folder.
 
 ## Usage
 
@@ -53,32 +55,7 @@ What's included in this package?
 * Module Manager configs to replace the props in the FASA Gemini capsule and the Yarbrough Mk. 1-1 A2 capsule, updating those pods with new interiors.
 * Module Manager configs to modify the FASA Gemini nose cones with docking port cameras and a radar module to allow target acquisition.
 * Module Manager configs to add cameras to the FASA Probe Camera, converting it into a RasterPropMonitor-enabled camera.
-* Many, many MOARdV customized configurations of existing ASET Props and ASET Avionics parts.
-
-In addition, there are many props from alexustas that have not been released in his existing parts packs.  Each part is in its own directory.
-
-* ARRT - an altitude / range-range rate indicator useful for landing and docking.
-* ASET_ClockTimer - an analog clock that automatically configures itself for Earth (24 hour) or Kerbin (6 hour) days that includes a stopwatch feature.
-* ASET_DSKY - inspired by the Apollo DSKY, the ASET DSKY provides orbital and rendezvous information.
-* ASET_SignalLamp - a configurable incandescent indicator lamp.
-* ASET_VPG - a single-scale analog bar-graph style indicator (good as a fuel gauge, pressure gauge, etc).
-* ASET_VPGDual - a dual-scale gauge (good for tracking stage and total quantities, for instance, or static and dynamic pressure).
-* FDAI - The Flight Directory / Attitude Indicator, based on the Apollo FDAI.  A replacement advanced navball.
-* FDAI_GMCP - The control panel for the FDAI.
-* FlagIndicator - Based on the indicators in Apollo - a rectangular bracket holding an illuminated flag (indicator lamp), with a configurable caption.
-* Monitor_4char - A simple monitor intended for a 1 row, 4 character display.
-* Monitor_8char - A simple monitor intended for a 1 row, 8 character display.
-* MultiSwitcher_3pos - A rotary switch with three positions.
-* MultiSwitcher_4pos - A rotary switch with four positions.
-* NumInputDial - A knob that can be rotated for numeric inputs, with a "Select" button on its tip.
-* NumInputDial_NoButton - Same as above, but with a configurable graphic on its tip instead of a button.
-* RetroButton - An Apollo-like illuminated push button / switch.
-* RetroWarningLight - An Apollo-like illuminated warning plaque.
-* RotationCtrl_V2 - A joystick without an additional hardware (for surface placement).
-* SquareMonitorTypeA and SquareMonitorTypeB - A 1:1 aspect ratio monitor with no buttons.  One version includes mounting screws, the other does not.
-* Switch_Tumbler_3Pos - A mechanical tumbler switch with three positions.
-* TWR_Indicator - An analog bar gauge for tracking thrust to weight ratio.
-* Xpointer - An analog display used for zeroing lateral speeds during landing, and for aligning with and matching velocity with an orbital target.
+* Many MOARdV customized configurations of existing ASET Props and ASET Avionics parts.
 
 Other directories contain configurations for MFDs, replacement textures used for customized props, et cetera.
 
@@ -90,6 +67,12 @@ All props and textures included in this mod were originally created by Alexustas
 Some of them have been modified for inclusion in this mod.
 
 ## Revision History
+
+### 4.1.0 - 2016
+* Update of Yarbrough Mk. 1-1 A2 using latest props and RasterPropMonitor features.
+* Move Gemini to Legacy status - I don't have the spare time to maintain and update it at the moment.
+* Props alexustas created that are part of upcoming ASET props packs have been removed from this distribution.
+If you do not have the latest pack, or it has not been released, you will have missing props in the IVA.
 
 ### 4.0.0 - 19 APR 2016
 * Release version of Yarbrough Mk. 1-1 A2.
