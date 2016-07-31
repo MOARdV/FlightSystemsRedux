@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+[#ffffff3f]  MOARdV
+[#ffffff3f]  RM Information Display
+[#ffffff3f]  RPM v{0} $&$ RPMVERSION

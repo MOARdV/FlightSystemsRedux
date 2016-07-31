@@ -1,0 +1,16 @@
+[hw][ NO TARGET ]
+[#ffaaffff][hw]  ---.-m[#ffffffff] X[/hw]
+[#ffaaffff][hw]  ---.-m[#ffffffff] Y[/hw]
+[#ffaaffff][hw]  ---.-m[#ffffffff] Z[/hw]
+
+
+
+
+
+
+
+
+
+[#aaffaaff][hw]  ---.-m/s[#ffffffff] X[/hw]
+[#aaffaaff][hw]  ---.-m/s[#ffffffff] Y[/hw]
+[#aaffaaff][hw]  ---.-m/s[#ffffffff] Z[/hw]

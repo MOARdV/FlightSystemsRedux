@@ -1,0 +1,13 @@
+{3:;" ---.--m x  ---.--m  @  ---.-°";}[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ APOAPSIS PERIAPSIS INCLINATION ORBITMAKESSENSE
+
+
+
+
+
+
+
+
+Node T: {0,13:METD:hh:mm:ss} {1,7:SIP7.1}m/s $&$ MNODETIMESECS MNODEDV
+
+Post-Maneuver Orbit:
+[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ MNODEAPOAPSIS MNODEPERIAPSIS MNODEINCLINATION

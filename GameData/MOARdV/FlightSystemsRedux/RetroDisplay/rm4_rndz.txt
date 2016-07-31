@@ -1,0 +1,8 @@
+{3:;" ---.--m x  ---.--m  @  ---.-°";}[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ APOAPSIS PERIAPSIS INCLINATION ORBITMAKESSENSE
+
+Target Orbit:
+[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ TARGETAPOAPSIS TARGETPERIAPSIS TARGETINCLINATION
+Relative Inclination: [#aaaaffff]{0,5:0.0}° $&$ RELATIVEINCLINATION
+
+Closest Approach:
+{0,7:SIP7.1}m    T:{1,14:METD:hh:mm:ss;"";""} $&$ TARGETCLOSESTAPPROACHDISTANCE TARGETCLOSESTAPPROACHTIME

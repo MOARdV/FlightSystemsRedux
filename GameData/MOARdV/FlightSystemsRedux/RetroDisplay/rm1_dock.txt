@@ -1,0 +1,16 @@
+[hw][ {0} ] $&$ TARGETNAME
+[#ffaaffff][hw]{0,7:SIP7.1}m[#ffffffff] X[/hw] $&$  TARGETDISTANCEX
+[#ffaaffff][hw]{0,7:SIP7.1}m[#ffffffff] Y[/hw] $&$  TARGETDISTANCEY
+[#ffaaffff][hw]{0,7:SIP7.1}m[#ffffffff] Z[/hw] $&$  TARGETDISTANCEZ	
+
+[@x228][hw][font2]{0:"APPROACH";"-DEPART-";""} $&$ TGTRELZ
+            [#ffffff77][@x-{0:0.0}][@y-{0:0.0}]¢      [@x{0:0.0}][@y-{0:0.0}]¡ $&$  TARGETANGLEDEV
+[@x{0:0.0}][@y{1:0.0}][font1][#77ff77cc]?[#ffffffff][font0][@y0][@x0] $&$ MAPPED_MOARdV_DOCK_VELOCITY_X_NUDGE MAPPED_MOARdV_DOCK_VELOCITY_Y_NUDGE
+[@x{0:0.0}][@y{1:0.0}][font1][#ff77ffcc]>[#ffffffff][font0][@y0][@x0] $&$ MAPPED_MOARdV_DOCK_LOCATION_X_NUDGE MAPPED_MOARdV_DOCK_LOCATION_Y_NUDGE
+            [#ffffff77][@x-{0:0.0}][@y{0:0.0}]¤      [@x{0:0.0}][@y{0:0.0}]£ $&$  TARGETANGLEDEV
+
+			
+			
+[#aaffaaff][hw]{0,7:SIP7.1}m/s[#ffffffff] X[/hw] $&$ TGTRELX 
+[#aaffaaff][hw]{0,7:SIP7.1}m/s[#ffffffff] Y[/hw] $&$ TGTRELY 
+[#aaffaaff][hw]{0,7:SIP7.1}m/s[#ffffffff] Z[/hw] $&$ TGTRELZ 
