@@ -1,4 +1,4 @@
-[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
+[hw][#aaaaffff]    BTNA  |  BTNB  | TRGT  |  BTND  |  BTNE  | BTNF  |  CAM 
      [@x8][ TARGET RENDEZVOUS ]
 {3:;" ---.--m x  ---.--m  @  ---.-°";}[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ APOAPSIS PERIAPSIS INCLINATION ORBITMAKESSENSE
 Target Orbit:

@@ -1,16 +1,16 @@
-[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
+[hw][#aaaaffff]    BTNA  |  BTNB  | TRGT  |  BTND  |  BTNE  | BTNF  |  CAM 
       [ DOCKING PORT CAM ]
-{0} $&$ TARGETNAME
-
-
-
+[#ffaaffff][hw]{0,7:SIP7.1}m[#ffffffff] X[/hw] $&$  TARGETDISTANCEX
+[#ffaaffff][hw]{0,7:SIP7.1}m[#ffffffff] Y[/hw] $&$  TARGETDISTANCEY
+[#ffaaffff][hw]{0,7:SIP7.1}m[#ffffffff] Z[/hw] $&$  TARGETDISTANCEZ	
+[@x228][hw][font2]{0:"APPROACH";"-DEPART-";""} $&$ TGTRELZ
             [#ffffff77][@x-{0:0.0}][@y-{0:0.0}]¢      [@x{0:0.0}][@y-{0:0.0}]¡ $&$  TARGETANGLEDEV
-
-                             [@y-14][#aaaaffff][hw][font2]ZM +[font0] -
+[@x{0:0.0}][@y{1:0.0}][font1][#77ff77cc]?[#ffffffff][font0][@y0][@x0] $&$ MAPPED_MOARdV_DOCK_VELOCITY_X_NUDGE MAPPED_MOARdV_DOCK_VELOCITY_Y_NUDGE
+[@x{0:0.0}][@y{1:0.0}][font1][#ff77ffcc]>[#ffffffff][font0][@y0][@x0]                            [@y-14][#aaaaffff][hw][font2]ZM +[font0] - $&$ MAPPED_MOARdV_DOCK_LOCATION_X_NUDGE MAPPED_MOARdV_DOCK_LOCATION_Y_NUDGE
             [#ffffff77][@x-{0:0.0}][@y{0:0.0}]¤      [@x{0:0.0}][@y{0:0.0}]£ $&$  TARGETANGLEDEV
-                             [@y+14][#aaaaffff][hw][font2]ZM -[font0] -
-    [#aaaaffff]{0,7:SIP7.1}m/s[#ffffffff] -- X --  [#aaaaffff]{1,7:SIP7.1}m $&$ TGTRELX TARGETDISTANCEX
-    [#aaaaffff]{0,7:SIP7.1}m/s[#ffffffff] -- Y --  [#aaaaffff]{1,7:SIP7.1}m $&$ TGTRELY TARGETDISTANCEY
-[@y+12][#aaaaffff][hw]- STBY[/hw][#ffffffff][@y0] [#aaaaffff]{0,7:SIP7.1}m/s[#ffffffff] -- Z --  [#aaaaffff]{1,7:SIP7.1}m $&$ TGTRELZ TARGETDISTANCEZ
-              MET:{0,14:METD:hh:mm:ss;"";""} $&$ METSECS
+[#aaffaaff][hw]{0,7:SIP7.1}m/s[#ffffffff] X[/hw]                       [@y+14][#aaaaffff][hw][font2]ZM -[font0] - $&$ TGTRELX
+[#aaffaaff][hw]{0,7:SIP7.1}m/s[#ffffffff] Y[/hw] $&$ TGTRELY 
+[#aaffaaff][hw]{0,7:SIP7.1}m/s[#ffffffff] Z[/hw] $&$ TGTRELZ 
+[@y+12][#aaaaffff][hw]- STBY[/hw][#ffffffff][@y0]
+
 [hw][#aaaaffff]    LNCH  |  ORBT  | MNVR  |  RNDZ  |  [font2]DOCK[font0]  | BTN6  |  LAND

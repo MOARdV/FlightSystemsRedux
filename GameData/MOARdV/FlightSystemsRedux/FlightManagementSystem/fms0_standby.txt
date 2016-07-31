@@ -1,4 +1,4 @@
-[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
+[hw][#aaaaffff]    BTNA  |  BTNB  | TRGT  |  BTND  |  BTNE  | BTNF  |  CAM 
 
 
 

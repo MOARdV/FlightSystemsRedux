@@ -1,4 +1,4 @@
-[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
+[hw][#aaaaffff]    BTNA  |  BTNB  | TRGT  |  BTND  |  BTNE  | BTNF  |  CAM 
       [ORBITAL PARAMETERS]
 {3:;" ---.--m x  ---.--m  @  ---.-°";}[#aaaaffff]{0,7:SIP7.1}m[#ffffffff] x [#aaaaffff]{1,7:SIP7.1}m[#ffffffff]  @  [#aaaaffff]{2,5:0.0}° $&$ APOAPSIS PERIAPSIS INCLINATION ORBITMAKESSENSE
 {2:;"Alt: ---.--m     Rate: ---.--m/s";}Alt:[#aaffbdff]{0,7:SIP7.1}m[#ffffffff]     Rate:{1,7:SIP7.1}m/s $&$ ALTITUDE VERTSPEED ORBITMAKESSENSE

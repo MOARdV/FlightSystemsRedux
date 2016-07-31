@@ -1,4 +1,4 @@
-[hw][#aaaaffff]    BTNA  |  BTNB  | BTNC  |  BTND  |  BTNE  | BTNF  |  CAM 
+[hw][#aaaaffff]    BTNA  |  BTNB  | TRGT  |  BTND  |  BTNE  | BTNF  |  CAM 
 {0:"  [[@x8]AUTOMATIC ASCENT SEQUENCE[@x0] ]";"        [MANUAL  ASCENT]        ";"        [MANUAL  ASCENT]        "} $&$ PLUGIN_JSIMechJeb:ButtonAscentGuidanceState
 Pre-launch Countdown {0:METHHH:mm:ss;"";""} $&$ TARGETLAUNCHTIMESECS
 Alt:   ---.- m       Inc: ---°
