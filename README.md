@@ -1,6 +1,10 @@
 # FlightSystemsRedux
 RasterPropMonitor-enabled IVA configurations for the Kerbal Space Program
 
+## ATTENTION
+
+This mod is obsolete.  It was last updated for KSP 1.1.3.  Many changes have taken place with the RasterPropMonitor mod and the props used in this mod since then.  Do not expect the IVAs included here to be usable without a lot of effort.  I will not be releasing updates for this mod, since I have moved to MOARdV's Avionics Systems for enabling IVA gameplay in KSP.
+
 ## Overview
 
 FlightSystemsRedux is a mod that contains updated RasterPropMonitor IVA configurations for use in KSP.
